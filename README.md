@@ -1,6 +1,6 @@
 # Hi, I'm Ekansh Singh
 
-Builder working on healthcare infrastructure, cloud systems, and control engineering.
+Builder working on healthcare infrastructure, software systems, and control engineering.
 
 I build systems that convert messy real-world data into reliable operational workflows.
 
@@ -11,15 +11,16 @@ Production SaaS platform serving 100+ users.
 TypeScript / React / Supabase / Stripe
 
 **Medi-Loc**  
-Healthcare workflow infrastructure for medication adherence monitoring using AWS data pipelines.
+Healthcare infrastructure for medication adherence monitoring and auditable review workflows.  
+Python / SQL / AWS
 
 **ROSAN**  
-Low-cost thrust vector control system using MATLAB/Simulink modeling and Arduino validation.
+Low-cost thrust vector control system using MATLAB/Simulink modeling and Arduino validation.  
+MATLAB / Simulink / Arduino / C++
 
 ## Research
 
-Thrust Vector Control System Research  
-https://arxiv.org/abs/2509.00061
+[Thrust Vector Control System Research](https://arxiv.org/abs/2509.00061)
 
 ## Tech
 
