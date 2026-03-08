@@ -18,6 +18,12 @@ Python / SQL / AWS
 Low-cost thrust vector control system using MATLAB/Simulink modeling and Arduino validation.  
 MATLAB / Simulink / Arduino / C++
 
+## Additional Project
+
+**Romi Autonomous Navigation**  
+Autonomous navigation system for the Pololu Romi robot using PID control and encoder feedback.  
+Arduino / C++ / Embedded Systems
+
 ## Research
 
 [Thrust Vector Control System Research](https://arxiv.org/abs/2509.00061)
