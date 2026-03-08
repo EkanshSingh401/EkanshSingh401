@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ekansh Singh
 
-<!--
-**EkanshSingh401/EkanshSingh401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder working on healthcare infrastructure, cloud systems, and control engineering.
 
-Here are some ideas to get you started:
+I build systems that convert messy real-world data into reliable operational workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Interna**  
+Production SaaS platform serving 100+ users.  
+TypeScript / React / Supabase / Stripe
+
+**Medi-Loc**  
+Healthcare workflow infrastructure for medication adherence monitoring using AWS data pipelines.
+
+**ROSAN**  
+Low-cost thrust vector control system using MATLAB/Simulink modeling and Arduino validation.
+
+## Research
+
+Thrust Vector Control System Research  
+https://arxiv.org/abs/2509.00061
+
+## Tech
+
+Python • TypeScript • JavaScript • SQL • MATLAB • C++  
+AWS • Supabase • Stripe
