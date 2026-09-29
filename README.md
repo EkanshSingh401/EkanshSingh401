@@ -1,34 +1,33 @@
-# Hi, I'm Ekansh Singh
+# Ekansh Singh
+Aerospace Engineering + Computer Science @ Georgia Tech (May 2028). I build systems where speed
+and correctness both get measured: low-latency C++, autonomy on embedded
+hardware, and production backends.
 
-Builder working on healthcare infrastructure, software systems, and control engineering.
+## Featured
+**[Carteret](https://github.com/EkanshSingh401/carteret)**: NASDAQ ITCH 5.0 feed
+handler and market-by-order order book in C++20. 168 ns mean / 660 ns p99 per
+update on an isolated core; zero divergence from a reference book over 3.04B
+messages; fuzzed under ASan/UBSan.
+`C++20` `perf` `rdpmc` `libFuzzer` `CMake`
 
-I build systems that convert messy real-world data into reliable operational workflows.
+**[AeroSentry](https://github.com/EkanshSingh401/aero-sentry)**: Streaming
+turbofan remaining-useful-life pipeline on NASA C-MAPSS (Kafka, C++ filtering,
+PyTorch LSTM, InfluxDB) with a model-independent data-quality monitor.
 
-## Projects
+**[YUYAY](https://github.com/EkanshSingh401/yuyay)**: Production platform for the
+UN Office of the Future. Async FastAPI (17 endpoints), Next.js, PyPI library,
+186 tests at 90%+ coverage.
 
-**Interna**  
-Production SaaS platform serving 100+ users.  
-TypeScript / React / Supabase / Stripe
-
-**Medi-Loc**  
-Healthcare infrastructure for medication adherence monitoring and auditable review workflows.  
-Python / SQL / AWS
-
-**ROSAN**  
-Low-cost thrust vector control system using MATLAB/Simulink modeling and Arduino validation.  
-MATLAB / Simulink / Arduino / C++
-
-## Additional Project
-
-**Romi Autonomous Navigation**  
-Autonomous navigation system for the Pololu Romi robot using PID control and encoder feedback.  
-Arduino / C++ / Embedded Systems
+**[ROSAN](https://github.com/EkanshSingh401/rosan-thrust-vector-control)**:
+Low-cost thrust vector control, Simulink modeling and hardware validation.
+[Paper](https://arxiv.org/abs/2509.00061)
 
 ## Research
+- 9× faster transformer policy inference via TensorRT on Jetson (IROS 2026, first author)
+- Fisher-information exploration planner on ROS 2 / Jetson Orin NX (in progress)
 
-[Thrust Vector Control System Research](https://arxiv.org/abs/2509.00061)
+## Also
+[Medi-Loc](https://github.com/EkanshSingh401/Medi-Loc) (Startup -- patented medication-adherence
+system) · [Interna](https://github.com/EkanshSingh401/Interna) (production SaaS)
 
-## Tech
-
-Python • TypeScript • JavaScript • SQL • MATLAB • C++  
-AWS • Supabase • Stripe
+C++20 · Python · TypeScript · SQL · ROS 2 · PyTorch / TensorRT · FastAPI · Kafka · AWS
